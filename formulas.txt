@@ -1,0 +1,9 @@
+                                                        Excle Formula's 
+1. SUM      [=SUM(Number1:Number2)
+2. SUM IF   [=SUMIF(Number1:Number2,">50000")
+3. SUM IFS  [=SUMIFS(sum-range,Criteria-range 1,"female",D2:D10,">30")
+4. Find Max [=MAX(Number1:Number2)]
+5. Find Min [= Min (number1:number2)] 
+6. Len      [(=MIN(Len!J2] (If u wand to find name,number use len)
+7. left     [(LEFT(F2,3) ( if u can write sort name used only 3 characters used this)
+8. Right    [
